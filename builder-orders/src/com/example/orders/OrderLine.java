@@ -15,5 +15,5 @@ public class OrderLine {
     public int getQuantity() { return quantity; }
     public int getUnitPriceCents() { return unitPriceCents; }
 
-    public void setQuantity(int q) { this.quantity = q; }
+    // public void setQuantity(int q) { this.quantity = q; }
 }
